@@ -1,1 +1,1 @@
-![imgd](https://badge.mediaplus.ma/darkblue/rghouzra)
+![imgd](https://badge.mediaplus.ma/starryblue/rghouzra)
