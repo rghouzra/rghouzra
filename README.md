@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/rghouzra?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rghouzra&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="[https://github-readme-stats.vercel.app/api?username=rghouzra](https://badge.mediaplus.ma/starryblue/rghouzra)&line_height=40&show_icons=true&theme=dark">
 </a>
 
 ![imgd](https://badge.mediaplus.ma/starryblue/rghouzra)
