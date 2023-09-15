@@ -14,7 +14,3 @@
 <a href="https://github.com/rghouzra?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rghouzra&theme=dark"/>
 </a>
-
-<a>
-  ![imgd](https://badge.mediaplus.ma/starryblue/rghouzra)
-</a>
