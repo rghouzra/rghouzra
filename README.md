@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reda Ghouzraf</h1>
+<h1 align="center">Hi, I'm Reda Ghouzraf</h1>
 <h3 align="center">A passionate low level developer from Morocco</h3>
 
 - 🔭 I’m currently working on **Motor driver**
