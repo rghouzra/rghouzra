@@ -2,7 +2,7 @@ section .data
     profile_info db "Hi, I'm Reda Ghouzraf", 10
     level_info db "A passionate low level developer", 10
     languages db "Languages and Tools:", 10
-    languages_list db "C, Assembly, Bash", 10
+    languages_list db "C/C++, Assembly, Bash", 10
 
 section .text
     global _start
