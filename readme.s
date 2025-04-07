@@ -29,11 +29,11 @@ _start:
     mov eax, 4
     mov ebx, 1
     mov ecx, languages_list
-    mov edx, 19
+    mov edx, 21
     int 0x80
 
     mov eax, 1          ; Syscall sys_exit --
     xor ebx, ebx        ; for 0 return
     int 0x80
 
-; you can see the output of this code in https://godbolt.org/z/njn1MPc7o
+; you can see the output of this code in https://godbolt.org/z/KzWbjWPz7
