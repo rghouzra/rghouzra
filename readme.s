@@ -36,4 +36,4 @@ _start:
     xor ebx, ebx        ; for 0 return
     int 0x80
 
-; you can see the output of this code in https://godbolt.org/z/KzWbjWPz7
+; you can see the output of this code in https://godbolt.org/z/Yh89E6M1Y
