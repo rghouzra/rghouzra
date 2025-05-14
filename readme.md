@@ -1,3 +1,4 @@
+```asm
 section .data
     profile_info db "Hi, I'm Reda Ghouzraf", 10
     level_info db "A passionate low level developer", 10
@@ -37,3 +38,5 @@ _start:
     int 0x80
 
 ; you can see the output of this code in https://godbolt.org/z/Yh89E6M1Y
+```
+[![rghouzra's 42 stats](https://badge.mediaplus.ma/darkblue/rghouzra)](https://github.com/oakoudad/badge42)
